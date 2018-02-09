@@ -1,3 +1,87 @@
-19:06:51.634 DEBUG LoggingDemo -Debug ....
-19:06:51.639 INFO  LoggingDemo -Info....
-19:06:51.639 ERROR LoggingDemo -Error....
+11:37:35.361 INFO  CommonUtils -Got property Value http://www.phptravels.net
+11:41:11.971 INFO  CommonUtils -Got property Value http://www.phptravels.net
+11:45:07.286 INFO  CommonUtils -Got property Value http://www.phptravels.net
+11:47:31.198 INFO  CommonUtils -Got property Value http://www.phptravels.net
+11:55:35.889 INFO  CommonUtils -Got property Value http://www.phptravels.net
+11:57:27.447 INFO  CommonUtils -Got property Value http://www.phptravels.net
+11:59:22.466 INFO  CommonUtils -Got property Value http://www.phptravels.net
+12:00:06.376 INFO  CommonUtils -Got property Value http://www.phptravels.net
+12:01:01.964 INFO  CommonUtils -Got property Value http://www.phptravels.net
+12:01:45.381 INFO  CommonUtils -Got property Value http://www.phptravels.net
+12:09:08.885 INFO  CommonUtils -Got property Value http://www.phptravels.net
+12:13:19.496 INFO  CommonUtils -Got property Value http://www.phptravels.net
+12:31:14.846 INFO  CommonUtils -Got property Value http://www.phptravels.net
+12:53:20.688 INFO  CommonUtils -Got property Value http://www.phptravels.net
+13:19:43.415 INFO  ExcelReader -Reading Excel Sheet...
+13:19:43.427 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+13:19:43.427 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:21:19.025 INFO  ExcelReader -Reading Excel Sheet...
+13:21:19.035 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+13:21:19.035 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:21:21.610 INFO  CommonUtils -Got property Value http://www.phptravels.net
+13:21:35.673 INFO  CommonUtils -Got property Value http://www.phptravels.net
+13:21:50.280 INFO  CommonUtils -Got property Value http://www.phptravels.net
+13:22:06.313 INFO  CommonUtils -Got property Value http://www.phptravels.net
+13:22:21.373 INFO  CommonUtils -Got property Value http://www.phptravels.net
+13:25:59.733 INFO  ExcelReader -Reading Excel Sheet...
+13:25:59.744 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+13:25:59.745 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:26:02.335 INFO  CommonUtils -Got property Value http://www.phptravels.net
+13:26:16.471 INFO  CommonUtils -Got property Value http://www.phptravels.net
+13:26:31.122 INFO  CommonUtils -Got property Value http://www.phptravels.net
+13:26:45.657 INFO  CommonUtils -Got property Value http://www.phptravels.net
+13:26:59.893 INFO  CommonUtils -Got property Value http://www.phptravels.net
+13:30:03.685 INFO  ExcelReader -Reading Excel Sheet...
+13:30:03.697 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+13:30:03.697 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:30:06.275 INFO  CommonUtils -Got property Value http://www.phptravels.net
+13:30:18.316 INFO  CommonUtils -Got property Value http://www.phptravels.net
+13:30:27.972 INFO  CommonUtils -Got property Value http://www.phptravels.net
+13:30:37.487 INFO  CommonUtils -Got property Value http://www.phptravels.net
+13:30:48.102 INFO  CommonUtils -Got property Value http://www.phptravels.net
+14:25:03.625 INFO  ExcelReader -Reading Excel Sheet...
+14:25:03.635 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+14:25:03.635 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+14:26:37.835 INFO  ExcelReader -Reading Excel Sheet...
+14:26:37.844 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+14:26:37.844 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+14:26:40.398 INFO  CommonUtils -Got property Value http://www.phptravels.net
+14:27:21.210 INFO  ExcelReader -Reading Excel Sheet...
+14:27:21.219 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+14:27:21.219 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+14:27:23.761 INFO  CommonUtils -Got property Value http://www.phptravels.net
+14:27:33.022 INFO  Basepage -Page Title is Register
+14:27:35.833 INFO  CommonUtils -Got property Value http://www.phptravels.net
+14:27:43.838 INFO  Basepage -Page Title is Register
+14:27:46.663 INFO  CommonUtils -Got property Value http://www.phptravels.net
+14:27:54.091 INFO  Basepage -Page Title is Register
+14:27:56.923 INFO  CommonUtils -Got property Value http://www.phptravels.net
+14:28:03.874 INFO  Basepage -Page Title is Register
+14:28:06.703 INFO  CommonUtils -Got property Value http://www.phptravels.net
+14:28:13.138 INFO  Basepage -Page Title is Register
+14:31:43.630 INFO  ExcelReader -Reading Excel Sheet...
+14:31:43.639 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+14:31:43.639 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+14:31:46.246 INFO  CommonUtils -Got property Value http://www.phptravels.net
+14:31:53.322 INFO  Basepage -Page Title is Register
+14:31:56.144 INFO  CommonUtils -Got property Value http://www.phptravels.net
+14:32:03.376 INFO  Basepage -Page Title is Register
+14:32:06.216 INFO  CommonUtils -Got property Value http://www.phptravels.net
+14:32:13.351 INFO  Basepage -Page Title is Register
+14:32:16.183 INFO  CommonUtils -Got property Value http://www.phptravels.net
+14:32:24.029 INFO  Basepage -Page Title is Register
+14:32:26.853 INFO  CommonUtils -Got property Value http://www.phptravels.net
+14:32:34.002 INFO  Basepage -Page Title is Register
+15:33:52.434 INFO  ExcelReader -Reading Excel Sheet...
+15:33:52.443 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+15:33:52.443 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+15:33:55.071 INFO  CommonUtils -Got property Value http://www.phptravels.net
+15:34:03.555 INFO  Basepage -Page Title is Register
+15:34:06.820 INFO  CommonUtils -Got property Value http://www.phptravels.net
+15:34:14.438 INFO  Basepage -Page Title is Register
+15:34:17.341 INFO  CommonUtils -Got property Value http://www.phptravels.net
+15:34:25.678 INFO  Basepage -Page Title is Register
+15:34:28.593 INFO  CommonUtils -Got property Value http://www.phptravels.net
+15:34:36.545 INFO  Basepage -Page Title is Register
+15:34:39.453 INFO  CommonUtils -Got property Value http://www.phptravels.net
+15:34:46.265 INFO  Basepage -Page Title is Register

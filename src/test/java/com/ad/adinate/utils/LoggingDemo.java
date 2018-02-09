@@ -10,5 +10,7 @@ public class LoggingDemo {
 		log4.debug("Debug ....");
 		log4.info("Info....");
 		log4.error("Error....");
+		
+	
 	}
 }

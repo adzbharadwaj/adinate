@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [Suite]]">
+  <parameter name="runmode" value="Local"/>
+  <parameter name="browser" value="Firefox"/>
+  <test name="Test(failed)(failed)">
+    <classes>
+      <class name="com.ad.adinate.testscripts.NewTest">
+        <methods>
+          <include name="verifyRegistration" invocation-numbers="0 1 2 3 4"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.ad.adinate.testscripts.NewTest -->
+    </classes>
+  </test> <!-- Test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Suite]] -->

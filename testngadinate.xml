@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests" thread-count="5">
+	<parameter name="browser" value="Firefox"></parameter>
+	<parameter name="runmode" value="Local"></parameter>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.ad.adinate.testscripts.NewTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

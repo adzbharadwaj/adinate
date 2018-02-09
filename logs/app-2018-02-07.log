@@ -1,0 +1,99 @@
+12:34:43.478 INFO  ExcelReader -Reading Excel Sheet...
+12:34:43.487 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+12:34:43.487 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+12:38:02.796 INFO  ExcelReader -Reading Excel Sheet...
+12:38:02.805 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+12:39:51.675 INFO  ExcelReader -Reading Excel Sheet...
+12:39:51.684 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+12:40:30.315 INFO  ExcelReader -Reading Excel Sheet...
+12:40:30.326 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+12:42:55.250 INFO  ExcelReader -Reading Excel Sheet...
+12:42:55.259 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+12:45:06.092 INFO  ExcelReader -Reading Excel Sheet...
+12:45:06.100 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+12:50:45.720 INFO  ExcelReader -Reading Excel Sheet...
+12:50:45.729 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+12:50:45.729 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:29:02.112 INFO  ExcelReader -Reading Excel Sheet...
+13:29:02.122 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+13:29:02.122 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:29:02.122 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:29:02.122 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:29:02.123 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:29:02.123 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:29:02.123 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:29:02.123 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:29:02.123 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:29:02.123 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:29:02.123 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:29:02.124 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:29:02.124 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:29:02.124 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:29:02.124 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:29:02.124 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:29:02.124 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:29:02.125 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:29:02.125 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:29:02.125 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:29:02.125 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:29:02.125 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:30:44.404 INFO  ExcelReader -Reading Excel Sheet...
+13:30:44.413 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+13:30:44.413 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:30:44.414 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:30:44.414 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:30:44.414 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:30:44.414 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:30:44.414 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:30:44.414 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:30:44.415 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:30:44.415 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:30:44.415 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:30:44.415 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:30:44.415 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:30:44.415 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:30:44.415 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:30:44.415 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:30:44.416 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:30:44.416 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:30:44.416 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:30:44.416 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:30:44.416 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:30:44.416 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:32:59.568 INFO  ExcelReader -Reading Excel Sheet...
+13:32:59.577 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+13:32:59.577 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:36:35.899 INFO  ExcelReader -Reading Excel Sheet...
+13:36:35.909 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+13:36:35.909 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+13:57:17.810 INFO  ExcelReader -Reading Excel Sheet...
+13:57:17.819 INFO  ExcelReader -Number of rows found with Y for testcase: verifyLogin is :5
+13:59:46.333 INFO  ExcelReader -Reading Excel Sheet...
+13:59:46.343 INFO  ExcelReader -Number of rows found with Y for testcase: verifyLogin is :5
+13:59:46.343 INFO  ExcelReader -Number of data for testcase: verifyLoginin row 7 is 2
+14:00:15.010 INFO  ExcelReader -Reading Excel Sheet...
+14:00:15.019 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+14:00:15.020 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+16:17:13.002 INFO  CommonUtils -Got property Value http://192.168.2.14:5555/wd/hub
+16:18:08.459 INFO  CommonUtils -Got property Value http://192.168.2.14:5555/wd/hub
+16:19:38.536 INFO  CommonUtils -Got property Value http://192.168.2.14:5555/wd/hub
+16:24:32.236 INFO  CommonUtils -Got property Value http://www.phptravels.net/register
+16:30:04.783 INFO  CommonUtils -Got property Value http://192.168.2.14:5555/wd/hub
+16:30:34.122 INFO  CommonUtils -Got property Value http://www.phptravels.net/register
+16:34:19.189 INFO  CommonUtils -Got property Value http://192.168.2.14:5555/wd/hub
+16:36:16.125 INFO  CommonUtils -Got property Value http://192.168.2.14:5555/wd/hub
+16:40:29.308 INFO  CommonUtils -Got property Value http://192.168.2.14:5555/wd/hub
+16:41:46.494 INFO  CommonUtils -Got property Value http://192.168.2.14:5555/wd/hub
+16:43:12.975 INFO  CommonUtils -Got property Value http://192.168.2.5:5555/wd/hub
+16:43:18.936 INFO  CommonUtils -Got property Value http://www.phptravels.net/register
+16:44:17.292 INFO  CommonUtils -Got property Value http://192.168.2.5:5555/wd/hub
+16:44:20.644 INFO  CommonUtils -Got property Value http://www.phptravels.net/register
+16:45:22.169 INFO  CommonUtils -Got property Value http://192.168.2.5:5555/wd/hub
+16:45:27.509 INFO  CommonUtils -Got property Value http://www.phptravels.net/register
+16:47:57.420 INFO  CommonUtils -Got property Value http://192.168.2.5:5555/wd/hub
+16:48:00.732 INFO  CommonUtils -Got property Value http://www.phptravels.net/register
+16:48:35.693 INFO  CommonUtils -Got property Value http://192.168.2.5:5555/wd/hub
+16:48:39.106 INFO  CommonUtils -Got property Value http://www.phptravels.net/register
+16:50:00.191 INFO  CommonUtils -Got property Value http://www.phptravels.net/register
+17:06:58.740 INFO  CommonUtils -Got property Value http://192.168.2.5:5555/wd/hub
+17:07:01.888 INFO  CommonUtils -Got property Value http://www.phptravels.net/register
