@@ -14,7 +14,9 @@ import org.testng.annotations.Test;
 import com.ad.adinate.pageclasses.Homepage;
 import com.ad.adinate.pageclasses.RegistrationPage;
 import com.ad.adinate.utils.BrowserFactory;
+import com.ad.adinate.utils.CommonUtils;
 import com.ad.adinate.utils.ExcelReader;
+import com.ad.adinate.utils.ExtentFactory;
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
@@ -29,7 +31,7 @@ public class NewTest {
   @Parameters({"browser","runmode"})
   @BeforeMethod
   public void beforeMethod(String browser, String runmode) throws IOException {
-	  report= new ExtentReports("./ExtentReports/Er.html", false);
+	  report= ExtentFactory.getInstance();
 	  test = report.startTest("First test");
 	  driver = BrowserFactory.getBrowser(runmode, browser);
 	  BrowserFactory.openurl();
@@ -42,19 +44,28 @@ public class NewTest {
   }
   
   @Test(dataProvider="testdata" )
-  public void verifyRegistration(String fn, String ln, String ph,String em, String pwd, String cpwd) {
-	  hp = PageFactory.initElements(driver, Homepage.class);
-	  hp.clickMyAccount();
-	  rp = hp.clickRegister();
-	  rp.enterFirstName(fn);
-	  rp.enterLastName(ln);
-	  rp.enterEmail(em);
-	  rp.enterMobileNumber(ph);
-	  rp.enterPassword(pwd);
-	  rp.enterConfirmPassword(cpwd);
-	  String actual=rp.getPageTitle();
-	  Assert.assertEquals(actual, "Expected");
-	  test.log(LogStatus.INFO, "Test Complete");
+  public void verifyRegistration(String fn, String ln, String ph,String em, String pwd, String cpwd) throws Throwable {
+	  try {
+		  hp = PageFactory.initElements(driver, Homepage.class);
+		  hp.clickMyAccount();
+		  rp = hp.clickRegister();
+		  rp.enterFirstName(fn);
+		  rp.enterLastName(ln);
+		  rp.enterEmail(em);
+		  rp.enterMobileNumber(ph);
+		  rp.enterPassword(pwd);
+		  rp.enterConfirmPassword(cpwd);
+		  String actual=rp.getPageTitle();
+		  Assert.assertEquals(actual, "Expected");
+		  test.log(LogStatus.INFO, "Test Complete");
+	  }
+	  catch (Throwable e) {
+		CommonUtils.takeScreenshot(driver);
+		String path =CommonUtils.takeScreenshot(driver);
+		System.out.println(path);
+		String imgpath = test.addScreenCapture(path);
+		test.log(LogStatus.FAIL, "Test failed",imgpath);
+	}
   }
 
   @AfterMethod

@@ -85,3 +85,260 @@
 15:34:36.545 INFO  Basepage -Page Title is Register
 15:34:39.453 INFO  CommonUtils -Got property Value http://www.phptravels.net
 15:34:46.265 INFO  Basepage -Page Title is Register
+16:04:57.547 INFO  ExcelReader -Reading Excel Sheet...
+16:04:57.556 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+16:04:57.556 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+16:05:00.340 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:05:08.586 INFO  Basepage -Page Title is Register
+16:05:09.204 INFO  CommonUtils -Date :02_09_2018 16_05_09
+16:05:09.204 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_05_09.png
+16:05:11.902 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:05:18.895 INFO  Basepage -Page Title is Register
+16:05:19.506 INFO  CommonUtils -Date :02_09_2018 16_05_19
+16:05:19.506 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_05_19.png
+16:05:21.997 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:05:28.886 INFO  Basepage -Page Title is Register
+16:05:29.498 INFO  CommonUtils -Date :02_09_2018 16_05_29
+16:05:29.499 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_05_29.png
+16:05:32.065 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:05:39.835 INFO  Basepage -Page Title is Register
+16:05:40.450 INFO  CommonUtils -Date :02_09_2018 16_05_40
+16:05:40.450 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_05_40.png
+16:05:42.929 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:05:50.627 INFO  Basepage -Page Title is Register
+16:05:51.247 INFO  CommonUtils -Date :02_09_2018 16_05_51
+16:05:51.247 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_05_51.png
+16:14:15.113 INFO  ExcelReader -Reading Excel Sheet...
+16:14:15.125 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+16:14:15.125 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+16:14:17.900 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:14:25.559 INFO  Basepage -Page Title is Register
+16:14:26.197 INFO  CommonUtils -Date :02_09_2018 16_14_26
+16:14:26.197 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_14_26.png
+16:14:26.434 INFO  CommonUtils -Date :02_09_2018 16_14_26
+16:14:26.434 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_14_26.png
+16:14:29.188 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:14:36.521 INFO  Basepage -Page Title is Register
+16:14:37.138 INFO  CommonUtils -Date :02_09_2018 16_14_37
+16:14:37.138 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_14_37.png
+16:14:37.342 INFO  CommonUtils -Date :02_09_2018 16_14_37
+16:14:37.342 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_14_37.png
+16:14:39.824 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:14:48.119 INFO  Basepage -Page Title is Register
+16:14:48.739 INFO  CommonUtils -Date :02_09_2018 16_14_48
+16:14:48.739 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_14_48.png
+16:14:48.929 INFO  CommonUtils -Date :02_09_2018 16_14_48
+16:14:48.929 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_14_48.png
+16:14:51.411 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:14:59.348 INFO  Basepage -Page Title is Register
+16:14:59.961 INFO  CommonUtils -Date :02_09_2018 16_14_59
+16:14:59.961 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_14_59.png
+16:15:00.165 INFO  CommonUtils -Date :02_09_2018 16_15_00
+16:15:00.165 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_15_00.png
+16:15:02.765 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:15:10.216 INFO  Basepage -Page Title is Register
+16:15:10.831 INFO  CommonUtils -Date :02_09_2018 16_15_10
+16:15:10.831 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_15_10.png
+16:15:11.028 INFO  CommonUtils -Date :02_09_2018 16_15_11
+16:15:11.028 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_15_11.png
+16:20:58.893 INFO  ExcelReader -Reading Excel Sheet...
+16:20:58.902 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+16:20:58.902 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+16:20:58.916 INFO  CommonUtils -Date :02_09_2018 16_20_58
+16:21:01.499 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:26:07.135 INFO  ExcelReader -Reading Excel Sheet...
+16:26:07.144 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+16:26:07.144 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+16:26:07.159 INFO  CommonUtils -Date :02_09_2018 16_26_07
+16:26:09.681 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:26:17.378 INFO  Basepage -Page Title is Register
+16:26:18.016 INFO  CommonUtils -Date :02_09_2018 16_26_18
+16:26:18.016 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_26_18.png
+16:26:18.239 INFO  CommonUtils -Date :02_09_2018 16_26_18
+16:26:18.240 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_26_18.png
+16:26:19.214 INFO  CommonUtils -Date :02_09_2018 16_26_19
+16:26:20.944 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:26:28.405 INFO  Basepage -Page Title is Register
+16:26:29.028 INFO  CommonUtils -Date :02_09_2018 16_26_29
+16:26:29.028 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_26_29.png
+16:26:29.211 INFO  CommonUtils -Date :02_09_2018 16_26_29
+16:26:29.211 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_26_29.png
+16:26:30.017 INFO  CommonUtils -Date :02_09_2018 16_26_30
+16:26:31.684 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:26:39.168 INFO  Basepage -Page Title is Register
+16:26:39.783 INFO  CommonUtils -Date :02_09_2018 16_26_39
+16:26:39.783 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_26_39.png
+16:26:39.966 INFO  CommonUtils -Date :02_09_2018 16_26_39
+16:26:39.966 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_26_39.png
+16:26:40.771 INFO  CommonUtils -Date :02_09_2018 16_26_40
+16:26:42.417 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:26:49.614 INFO  Basepage -Page Title is Register
+16:26:50.227 INFO  CommonUtils -Date :02_09_2018 16_26_50
+16:26:50.227 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_26_50.png
+16:26:50.422 INFO  CommonUtils -Date :02_09_2018 16_26_50
+16:26:50.422 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_26_50.png
+16:26:51.221 INFO  CommonUtils -Date :02_09_2018 16_26_51
+16:26:52.955 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:27:02.369 INFO  Basepage -Page Title is Register
+16:27:02.990 INFO  CommonUtils -Date :02_09_2018 16_27_02
+16:27:02.990 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_27_02.png
+16:27:03.178 INFO  CommonUtils -Date :02_09_2018 16_27_03
+16:27:03.178 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_27_03.png
+16:30:19.487 INFO  ExcelReader -Reading Excel Sheet...
+16:30:19.496 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+16:30:19.496 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+16:30:19.511 INFO  CommonUtils -Date :02_09_2018 16_30_19
+16:30:22.149 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:30:30.598 INFO  Basepage -Page Title is Register
+16:30:31.217 INFO  CommonUtils -Date :02_09_2018 16_30_31
+16:30:31.217 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_30_31.png
+16:30:31.442 INFO  CommonUtils -Date :02_09_2018 16_30_31
+16:30:31.442 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_30_31.png
+16:30:32.401 INFO  CommonUtils -Date :02_09_2018 16_30_32
+16:30:34.150 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:30:42.361 INFO  Basepage -Page Title is Register
+16:30:42.983 INFO  CommonUtils -Date :02_09_2018 16_30_42
+16:30:42.983 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_30_42.png
+16:30:43.173 INFO  CommonUtils -Date :02_09_2018 16_30_43
+16:30:43.173 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_30_43.png
+16:30:43.964 INFO  CommonUtils -Date :02_09_2018 16_30_43
+16:30:45.616 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:30:52.920 INFO  Basepage -Page Title is Register
+16:30:53.540 INFO  CommonUtils -Date :02_09_2018 16_30_53
+16:30:53.540 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_30_53.png
+16:30:53.734 INFO  CommonUtils -Date :02_09_2018 16_30_53
+16:30:53.734 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_30_53.png
+16:30:54.526 INFO  CommonUtils -Date :02_09_2018 16_30_54
+16:30:56.267 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:31:04.474 INFO  Basepage -Page Title is Register
+16:31:05.089 INFO  CommonUtils -Date :02_09_2018 16_31_05
+16:31:05.089 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_31_05.png
+16:31:05.289 INFO  CommonUtils -Date :02_09_2018 16_31_05
+16:31:05.289 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_31_05.png
+16:31:06.068 INFO  CommonUtils -Date :02_09_2018 16_31_06
+16:31:07.808 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:31:23.785 INFO  Basepage -Page Title is Register
+16:31:24.403 INFO  CommonUtils -Date :02_09_2018 16_31_24
+16:31:24.404 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_31_24.png
+16:31:24.595 INFO  CommonUtils -Date :02_09_2018 16_31_24
+16:31:24.595 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_31_24.png
+16:35:58.721 INFO  ExcelReader -Reading Excel Sheet...
+16:35:58.730 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+16:35:58.730 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+16:35:58.744 INFO  CommonUtils -Date :02_09_2018 16_35_58
+16:36:01.264 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:36:10.415 INFO  Basepage -Page Title is Register
+16:36:11.046 INFO  CommonUtils -Date :02_09_2018 16_36_11
+16:36:11.046 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_36_11.png
+16:36:11.305 INFO  CommonUtils -Date :02_09_2018 16_36_11
+16:36:11.306 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_36_11.png
+16:36:12.281 INFO  CommonUtils -Date :02_09_2018 16_36_12
+16:38:29.058 INFO  ExcelReader -Reading Excel Sheet...
+16:38:29.067 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+16:38:29.068 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+16:38:29.085 INFO  CommonUtils -Date :02_09_2018 16_38_29
+16:38:31.713 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:38:40.715 INFO  Basepage -Page Title is Register
+16:38:41.345 INFO  CommonUtils -Date :02_09_2018 16_38_41
+16:38:41.345 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_38_41.png
+16:38:41.606 INFO  CommonUtils -Date :02_09_2018 16_38_41
+16:38:41.606 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_38_41.png
+16:38:42.554 INFO  CommonUtils -Date :02_09_2018 16_38_42
+16:38:44.291 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:38:55.528 INFO  Basepage -Page Title is Register
+16:38:56.142 INFO  CommonUtils -Date :02_09_2018 16_38_56
+16:38:56.143 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_38_56.png
+16:38:56.336 INFO  CommonUtils -Date :02_09_2018 16_38_56
+16:38:56.336 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_38_56.png
+16:38:57.162 INFO  CommonUtils -Date :02_09_2018 16_38_57
+16:38:58.786 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:39:05.236 INFO  Basepage -Page Title is Register
+16:39:05.847 INFO  CommonUtils -Date :02_09_2018 16_39_05
+16:39:05.848 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_39_05.png
+16:39:06.041 INFO  CommonUtils -Date :02_09_2018 16_39_06
+16:39:06.041 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_39_06.png
+16:39:06.830 INFO  CommonUtils -Date :02_09_2018 16_39_06
+16:39:08.563 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:39:16.005 INFO  Basepage -Page Title is Register
+16:39:16.622 INFO  CommonUtils -Date :02_09_2018 16_39_16
+16:39:16.622 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_39_16.png
+16:39:16.808 INFO  CommonUtils -Date :02_09_2018 16_39_16
+16:39:16.808 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_39_16.png
+16:39:17.636 INFO  CommonUtils -Date :02_09_2018 16_39_17
+16:39:19.406 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:39:26.552 INFO  Basepage -Page Title is Register
+16:39:27.168 INFO  CommonUtils -Date :02_09_2018 16_39_27
+16:39:27.168 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_39_27.png
+16:39:27.374 INFO  CommonUtils -Date :02_09_2018 16_39_27
+16:39:27.374 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_39_27.png
+16:44:26.476 INFO  ExcelReader -Reading Excel Sheet...
+16:44:26.485 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+16:44:26.485 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+16:44:26.500 INFO  CommonUtils -Date :02_09_2018 16_44_26
+16:44:29.144 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:44:37.196 INFO  Basepage -Page Title is Register
+16:44:37.836 INFO  CommonUtils -Date :02_09_2018 16_44_37
+16:44:37.836 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_44_37.png
+16:44:38.048 INFO  CommonUtils -Date :02_09_2018 16_44_38
+16:44:38.048 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_44_38.png
+16:44:39.006 INFO  CommonUtils -Date :02_09_2018 16_44_39
+16:44:40.756 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:44:48.727 INFO  Basepage -Page Title is Register
+16:44:49.361 INFO  CommonUtils -Date :02_09_2018 16_44_49
+16:44:49.361 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_44_49.png
+16:44:49.566 INFO  CommonUtils -Date :02_09_2018 16_44_49
+16:44:49.566 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_44_49.png
+16:44:50.367 INFO  CommonUtils -Date :02_09_2018 16_44_50
+16:44:52.130 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:45:00.455 INFO  Basepage -Page Title is Register
+16:45:01.075 INFO  CommonUtils -Date :02_09_2018 16_45_01
+16:45:01.075 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_45_01.png
+16:45:01.259 INFO  CommonUtils -Date :02_09_2018 16_45_01
+16:45:01.259 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_45_01.png
+16:45:02.052 INFO  CommonUtils -Date :02_09_2018 16_45_02
+16:45:03.811 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:45:11.979 INFO  Basepage -Page Title is Register
+16:45:12.597 INFO  CommonUtils -Date :02_09_2018 16_45_12
+16:45:12.598 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_45_12.png
+16:45:12.801 INFO  CommonUtils -Date :02_09_2018 16_45_12
+16:45:12.802 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_45_12.png
+16:45:13.594 INFO  CommonUtils -Date :02_09_2018 16_45_13
+16:45:15.267 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:45:24.106 INFO  Basepage -Page Title is Register
+16:45:24.721 INFO  CommonUtils -Date :02_09_2018 16_45_24
+16:45:24.721 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_45_24.png
+16:45:24.917 INFO  CommonUtils -Date :02_09_2018 16_45_24
+16:45:24.917 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_45_24.png
+16:46:49.294 INFO  ExcelReader -Reading Excel Sheet...
+16:46:49.303 INFO  ExcelReader -Number of rows found with Y for testcase: verifyRegistrationPage is :5
+16:46:49.303 INFO  ExcelReader -Number of data for testcase: verifyRegistrationPagein row 1 is 6
+16:46:51.945 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:47:01.439 INFO  Basepage -Page Title is Register
+16:47:02.071 INFO  CommonUtils -Date :02_09_2018 16_47_02
+16:47:02.071 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_47_02.png
+16:47:02.287 INFO  CommonUtils -Date :02_09_2018 16_47_02
+16:47:02.288 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_47_02.png
+16:47:05.012 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:47:13.051 INFO  Basepage -Page Title is Register
+16:47:13.686 INFO  CommonUtils -Date :02_09_2018 16_47_13
+16:47:13.686 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_47_13.png
+16:47:13.878 INFO  CommonUtils -Date :02_09_2018 16_47_13
+16:47:13.878 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_47_13.png
+16:47:16.466 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:47:27.385 INFO  Basepage -Page Title is Register
+16:47:28.014 INFO  CommonUtils -Date :02_09_2018 16_47_28
+16:47:28.014 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_47_28.png
+16:47:28.200 INFO  CommonUtils -Date :02_09_2018 16_47_28
+16:47:28.200 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_47_28.png
+16:47:30.821 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:47:38.109 INFO  Basepage -Page Title is Register
+16:47:38.723 INFO  CommonUtils -Date :02_09_2018 16_47_38
+16:47:38.723 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_47_38.png
+16:47:38.911 INFO  CommonUtils -Date :02_09_2018 16_47_38
+16:47:38.911 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_47_38.png
+16:47:41.507 INFO  CommonUtils -Got property Value http://www.phptravels.net
+16:47:49.206 INFO  Basepage -Page Title is Register
+16:47:49.815 INFO  CommonUtils -Date :02_09_2018 16_47_49
+16:47:49.815 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_47_49.png
+16:47:50.008 INFO  CommonUtils -Date :02_09_2018 16_47_50
+16:47:50.008 INFO  CommonUtils -ScreenShot Captured /Users/adityabharadwaj/git/adinate/./ScreenShots/02_09_2018 16_47_50.png

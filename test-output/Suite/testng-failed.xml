@@ -7,7 +7,7 @@
     <classes>
       <class name="com.ad.adinate.testscripts.NewTest">
         <methods>
-          <include name="verifyRegistration" invocation-numbers="0 1 2 3 4"/>
+          <include name="verifyRegistration"/>
           <include name="beforeMethod"/>
           <include name="afterMethod"/>
         </methods>

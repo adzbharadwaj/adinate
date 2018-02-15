@@ -34,10 +34,11 @@ public class CommonUtils {
 		return df.format(d);
 	}
 	
-	public static void takeScreenshot(WebDriver driver) throws IOException {
+	public static String takeScreenshot(WebDriver driver) throws IOException {
 		File src = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
 		File dest = new File("./ScreenShots/"+getCurrentDate()+".png");
 		log4.info("ScreenShot Captured "+ dest.getAbsolutePath() );
 		FileUtils.copyFile(src, dest);
+		return dest.getCanonicalPath();
 	}
 }
