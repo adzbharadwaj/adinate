@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Parallel Suite" parallel="tests" thread-count="5">
+	<test name="Test2" thread-count="5">
+		<parameter name="browser" value="Chrome"></parameter>
+		<parameter name="runmode" value="Remote"></parameter>
+		<classes>
+			<class name="com.ad.adinate.testscripts.ParallelNewTest3" />
+		</classes>
+	</test> <!-- Test -->
+	<test name="Test1" thread-count="5">
+		<parameter name="browser" value="Firefox"></parameter>
+		<parameter name="runmode" value="Remote"></parameter>
+		<classes>
+			<class name="com.ad.adinate.testscripts.ParallelNewTest4" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
